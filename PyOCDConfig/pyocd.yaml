@@ -1,0 +1,6 @@
+probes:
+  HEENMZZTD75O7D2SPB5YPZ2ETNGU5O6B: # Probe's unique ID shown in "pyocd list" command
+    target_override:  gd32e507ze
+
+pack: # Download packs from http://www.gd32mcu.com/cn/download/7
+  # - /x/xx/xx.pack
